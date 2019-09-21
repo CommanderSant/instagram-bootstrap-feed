@@ -1,0 +1,27 @@
+body{
+    background-color: #e9ecef;
+}
+.container{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.container-fluid{
+    margin-right: 2;
+    margin-left: 2;
+    background-color: #fff;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    color: #fff;
+    background-color: #474545;
+}
+
+.row{
+    margin-right: -40px;
+    margin-left: -40px;
+}
+.img-thumbnail{
+    padding: 0;
+    max-width: 100%;
+}
+
+
